@@ -1,4 +1,4 @@
-This is a matlab package for "Structure-constrained combination-based nonlinear association analysis between incomplete multimodal imaging and genetic data for biomarker detection of neurodegenerative diseases "
+This is a matlab package for "Structure-constrained combination-based nonlinear association analysis between incomplete multimodal imaging and genetic data for biomarker detection of neurodegenerative diseases"
 
 Author: Xiumei Chen; Meiyan Huang @Southern Medical University
 
